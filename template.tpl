@@ -14,7 +14,7 @@
     "id": "github.com_ayruz-data-marketing",
     "displayName": "Ayruz-data-marketing"
   },
-  "description": "Send POST request, to API endpoint, with JSON body and desired headers.",
+  "description": "This tag enables you to send POST requests to API endpoints with JSON body and the desired headers.",
   "containerContexts": [
     "SERVER"
   ]
